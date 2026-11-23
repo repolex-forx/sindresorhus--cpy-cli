@@ -22,6 +22,139 @@
       ],
       "ast": [
         "aggregate/ast/55a03d44e2eb7810b8c33b909d7c07415b9d1095/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/55a03d44e2eb7810b8c33b909d7c07415b9d1095.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "cpy",
+          "ecosystem": "NPM",
+          "version": "13.2.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "cpy",
+          "githubCommit": "da95199375b91edd7543a5fe88313c3dbaf7e4f3",
+          "githubTag": "v13.2.0",
+          "githubUrl": "git+https://github.com/sindresorhus/cpy.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "globby",
+          "ecosystem": "NPM",
+          "version": "16.1.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "globby",
+          "githubCommit": "70c011b8be52c4a0d966bfcae4a4c5aa93b8a262",
+          "githubTag": "v16.1.0",
+          "githubUrl": "git+https://github.com/sindresorhus/globby.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "meow",
+          "ecosystem": "NPM",
+          "version": "14.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "meow",
+          "githubCommit": "a691341b2f15fbb7cbd654de550871623dda0b40",
+          "githubTag": "v14.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/meow.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ava",
+          "ecosystem": "NPM",
+          "version": "6.4.1",
+          "githubOrg": "avajs",
+          "githubRepo": "ava",
+          "githubCommit": "603d7ca2ada70f3e9e79ee5002a509f0646cb37c",
+          "githubTag": "v6.4.1",
+          "githubUrl": "git+https://github.com/avajs/ava.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "execa",
+          "ecosystem": "NPM",
+          "version": "9.6.1",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "execa",
+          "githubCommit": "84e1f36b2c31a463e3efbd37c7505da9438a05c9",
+          "githubTag": "v9.6.1",
+          "githubUrl": "git+https://github.com/sindresorhus/execa.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "path-exists",
+          "ecosystem": "NPM",
+          "version": "5.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "path-exists",
+          "githubCommit": "7c95f5c1f5f811c7f4dac78ab5b9e258491f03af",
+          "githubTag": "v5.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/path-exists.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "NPM",
+          "version": "6.0.1",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "tempfile",
+          "githubCommit": "ac7a2bb839ceb765d8030aa2356d6830590a38ef",
+          "githubTag": "v6.0.1",
+          "githubUrl": "git+https://github.com/sindresorhus/tempfile.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "xo",
+          "ecosystem": "NPM",
+          "version": "1.2.3",
+          "githubOrg": "xojs",
+          "githubRepo": "xo",
+          "githubCommit": "5477c4a75911ef8aa219d3258886148a130c118a",
+          "githubTag": "v1.2.3",
+          "githubUrl": "git+https://github.com/xojs/xo.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lib.es5.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.scripthost.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.symbol.wellknown.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2020.date.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.core.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.dom.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        }
       ]
     }
   ],
