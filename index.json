@@ -1,0 +1,11 @@
+{
+  "org": "sindresorhus",
+  "repo": "cpy-cli",
+  "versions": [
+    {
+      "commit": "55a03d44e2eb7810b8c33b909d7c07415b9d1095",
+      "tag": "v7.0.0",
+      "parsed_at": "2026-11-23T05:52:54.556503+00:00"
+    }
+  ]
+}
