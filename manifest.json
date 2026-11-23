@@ -155,7 +155,9 @@
           "githubRepo": "TypeScript",
           "source": "stdlib:typescript_lib"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/55a03d44e2eb7810b8c33b909d7c07415b9d1095/chunk-001.nq.gz",
+      "dep": "dep/55a03d44e2eb7810b8c33b909d7c07415b9d1095.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
