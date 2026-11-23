@@ -1,0 +1,7 @@
+[2026-11-23T05:48:22Z] === AST ITERATION 1 START | repo=sindresorhus/cpy-cli sha=55a03d44 ===
+[2026-11-23T05:48:22Z] [iter=1] PHASE START: ast repo=sindresorhus/cpy-cli sha=55a03d44
+[2026-11-23T05:48:22Z] [iter=1] Building AST aggregate chunks
+[2026-11-23T05:48:26Z] [iter=1] AST chunks built count=1 triples=48659
+[2026-11-23T05:48:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/55a03d44e2eb7810b8c33b909d7c07415b9d1095/.complete
+[2026-11-23T05:48:26Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-11-23T05:48:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
